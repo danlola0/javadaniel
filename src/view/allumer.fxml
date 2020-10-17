@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="395.0" prefWidth="668.0" style="-fx-background-color: #fff;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controler.AllumerController">
+   <children>
+      <Pane fx:id="panelLoad" layoutX="-2.0" layoutY="258.0" prefHeight="140.0" prefWidth="668.0" style="-fx-background-color: #fff;">
+         <children>
+            <Label layoutX="237.0" layoutY="14.0" prefHeight="17.0" prefWidth="178.0" text="Veillez Patienter ...">
+               <font>
+                  <Font name="Palatino Linotype Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
